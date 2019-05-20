@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DarthXSJ</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on DarthXSJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Precious</title>
+      <link>https://example.org/posts/my-precious/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/my-precious/</guid>
+      <description> This post is used to record some interesting or wonderful things I found.
+Videos  7 HOUR 4K DRONE FILM: &amp;ldquo;Earth from Above&amp;rdquo; link  Books Websites  CAS: Cloud Appreciation Society  </description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Training vs. Unpaired Training, or Is GAN Unsupervised?</title>
+      <link>https://example.org/posts/unsupervised-learning-and-unpaired-learning/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/unsupervised-learning-and-unpaired-learning/</guid>
+      <description>Recently, I was asked about a question: what is unsupervised training and what is unpaired training? Are they the same or are they different? More related problem will be: does GAN belong to unsupervised methods?
+In this post, I want discuss this interesting and important problem.</description>
+    </item>
+    
+    <item>
+      <title>Guided Filter</title>
+      <link>https://example.org/posts/guided-filter/</link>
+      <pubDate>Tue, 07 May 2019 21:54:07 +0800</pubDate>
+      
+      <guid>https://example.org/posts/guided-filter/</guid>
+      <description>Hello $x^2=y^2$ World
+Hello \(a^2=b^2\) World
+$$ x^2 = y^2 $$ \[ a^2 = b^2 \]</description>
+    </item>
+    
+  </channel>
+</rss>

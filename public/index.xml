@@ -1,14 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>DarthXSJ</title>
+    <link>https://example.org/</link>
+    <description>Recent content on DarthXSJ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Precious</title>
+      <link>https://example.org/posts/my-precious/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/my-precious/</guid>
+      <description> This post is used to record some interesting or wonderful things I found.
+Videos  7 HOUR 4K DRONE FILM: &amp;ldquo;Earth from Above&amp;rdquo; link  Books Websites  CAS: Cloud Appreciation Society  </description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Training vs. Unpaired Training, or Is GAN Unsupervised?</title>
+      <link>https://example.org/posts/unsupervised-learning-and-unpaired-learning/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/unsupervised-learning-and-unpaired-learning/</guid>
+      <description>Recently, I was asked about a question: what is unsupervised training and what is unpaired training? Are they the same or are they different? More related problem will be: does GAN belong to unsupervised methods?
+In this post, I want discuss this interesting and important problem.</description>
+    </item>
+    
+    <item>
+      <title>Guided Filter</title>
+      <link>https://example.org/posts/guided-filter/</link>
+      <pubDate>Tue, 07 May 2019 21:54:07 +0800</pubDate>
+      
+      <guid>https://example.org/posts/guided-filter/</guid>
+      <description>Hello $x^2=y^2$ World
+Hello \(a^2=b^2\) World
+$$ x^2 = y^2 $$ \[ a^2 = b^2 \]</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://example.org/cv/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/cv/</guid>
+      <description>Research interests Computer vision and machine learning
+Publications  Shijian Xu, Wenzhong Li, Xiao Zhang, Songcheng Gao, Tong Zhan, Yongzhu Zhao, Wei-wei Zhu, Tianzi Sun, Predicting Smartphone App Usage with Recurrent Neural Networks, in the 13th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2018), Tianjin, China, June 20-22, 2018. paper  Awards &amp;amp; Honors  2017 &amp;nbsp; Third Prize of Elite Program Scholarship 2017 &amp;nbsp; Honorable Mention for MCM 2017 2016 &amp;nbsp; Third Prize of People&amp;rsquo;s Scholarship 2015 &amp;nbsp; Second Prize of People&amp;rsquo;s Scholarship  Misc.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description> My Chinese name is 徐世坚. Currently, I am a first-year Ph.D. student in Computer Science at City University of Hong Kong, supervised by Prof. Rynson W. H. Lau. I received my B.Sc. degree in Computer Science and Technology in 2018 from Nanjing University (Elite Program).  </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://example.org/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/home/</guid>
+      <description>This is the home page. It will display the blog section if there is one, and a text before.
+Hey ! Welcome to the Cocoa Enhanced theme. Here are some articles :</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://example.org/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/license/</guid>
+      <description>You can use this page to put a license on the contents of your blog, like so:
+ The MIT License (MIT)
+Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
     
   </channel>
 </rss>

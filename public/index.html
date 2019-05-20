@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-US">
 
 <head>
 	<meta name="generator" content="Hugo 0.55.5" />
@@ -7,34 +7,38 @@
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Example blog">
 
 
+    <meta property="twitter:site" content="@example">
 
-<meta property="og:site_name" content="My New Hugo Site" />
-<meta property="og:locale" content="en-us" />
+<meta property="og:site_name" content="DarthXSJ" />
+<meta property="og:locale" content="en-US" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://example.org/" />
-<meta property="og:title" content="My New Hugo Site" />
-<meta property="twitter:title" content="My New Hugo Site">
+<meta property="og:url" content="https://example.org/" />
+<meta property="og:title" content="DarthXSJ" />
+<meta property="twitter:title" content="DarthXSJ">
 
-    <meta property="twitter:card" content="summary">
+    <meta property="og:image" content="https://example.org/img/banner.png">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:image" content="https://example.org/img/banner.png">
 
-<meta property="og:description" content="">
-<meta property="twitter:description" content="">
+<meta property="og:description" content="Example blog">
+<meta property="twitter:description" content="Example blog">
 
 <title>
 
 
-    My New Hugo Site
+    DarthXSJ
 
 </title>
-<link rel="canonical" href="http://example.org/">
+<link rel="canonical" href="https://example.org/">
 
 
 <style media="screen">
   @font-face {
   font-family: 'Nexa Bold';
-  src: url('http://example.org/fonts/Nexa Bold.otf');
+  src: url('https://example.org/fonts/Nexa Bold.otf');
 }
 
 html, body, div, span, applet, object, iframe,
@@ -316,6 +320,8 @@ div.main .content .title-container {
 }
 div.main .content .posts {
   
+  
+  margin-bottom: 4em;
   
 }
 div.main .content .page-heading {
@@ -955,7 +961,15 @@ margin-left: -4%;
 </noscript>
 
 
+  <style type="text/css" media="screen">
+    .hljs{display:block;background:white;padding:0.5em;color:#333333;overflow-x:auto}.hljs-comment,.hljs-meta{color:#969896}.hljs-string,.hljs-variable,.hljs-template-variable,.hljs-strong,.hljs-emphasis,.hljs-quote{color:#df5000}.hljs-keyword,.hljs-selector-tag,.hljs-type{color:#a71d5d}.hljs-literal,.hljs-symbol,.hljs-bullet,.hljs-attribute{color:#0086b3}.hljs-section,.hljs-name{color:#63a35c}.hljs-tag{color:#333333}.hljs-title,.hljs-attr,.hljs-selector-id,.hljs-selector-class,.hljs-selector-attr,.hljs-selector-pseudo{color:#795da3}.hljs-addition{color:#55a532;background-color:#eaffea}.hljs-deletion{color:#bd2c00;background-color:#ffecec}.hljs-link{text-decoration:underline}
+  </style>
 
+
+
+  <style type="text/css" media="screen">
+    .progressive{overflow:hidden;position:relative;background:#efefef}.progressive__img{width:100%;height:100%;position:absolute;-webkit-transform:translateZ(0);transform:translateZ(0)}.progressive--not-loaded{filter:blur(30px);-webkit-filter:blur(30px)}.progressive--is-loaded{filter:blur(20px);-webkit-filter:blur(20px);-webkit-animation:sharpen .5s both;animation:sharpen .5s both}@-webkit-keyframes sharpen{from{filter:blur(20px);-webkit-filter:blur(20px)}to{filter:blur(0);-webkit-filter:blur(0)}}@keyframes sharpen{from{filter:blur(20px);-webkit-filter:blur(20px)}to{filter:blur(0);-webkit-filter:blur(0)}}
+  </style>
 
 
 
@@ -967,13 +981,13 @@ margin-left: -4%;
 
 <link rel="shortcut icon"
 
-    href="http://example.org/img/favicon.ico"
+    href="https://example.org/img/logo2.PNG"
 
 >
 
 
 
-  <link href="http://example.org/index.xml" rel="alternate" type="application/rss+xml" title="My New Hugo Site" />
+  <link href="https://example.org/index.xml" rel="alternate" type="application/rss+xml" title="DarthXSJ" />
 
 
 </head>
@@ -986,14 +1000,32 @@ margin-left: -4%;
 
     <div class="container">
         
-        <a href="https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Configuration#logo">Logo HOWTO</a>
+        <a href="https://example.org/"><img class="logo" src="https://example.org/img/logo2.PNG" alt="logo"></a>
         
         <div class="content">
-            <a href="/"><div class="name"><h1>My New Hugo Site</h1></div></a>
+            <a href="https://example.org/"><div class="name"><h1>DarthXSJ</h1></div></a>
             <nav>
                 <ul>
                     
                     
+                        
+                            
+                            <li><a href="https://example.org/posts">posts</a></li>
+                            
+                        
+                    
+                    
+                        
+                            <li><a href="https://example.org/cv/">CV</a></li>
+                        
+                    
+                        
+                            <li><a href="https://example.org/about/">About</a></li>
+                        
+                    
+                        
+                    
+                        
                     
                 </ul>
             </nav>
@@ -1005,11 +1037,53 @@ margin-left: -4%;
     <div class="container">
         <div class="content">
             
+                <div class="markdown">
+                <p><em>This is the home page. It will display the blog section if there is one, and a text before.</em></p>
+
+<p>Hey ! Welcome to the <strong>Cocoa Enhanced theme</strong>. Here are some articles :</p>
+
+                </div>
+            
 
             
 
             <div class="best-posts">
             
+            
+                <div class="page-heading">Best posts</div>
+                <ul>
+                
+                    
+                        <li class="post-item">
+    <span class="meta">May 10, 2019</span>
+    
+    <a href="https://example.org/posts/my-precious/"><span>My Precious</span></a>
+    
+</li>
+
+                    
+                
+                    
+                        <li class="post-item">
+    <span class="meta">May 9, 2019</span>
+    
+    <a href="https://example.org/posts/unsupervised-learning-and-unpaired-learning/"><span>Unsupervised Training vs. Unpaired Training, or Is GAN Unsupervised?</span></a>
+    
+</li>
+
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                </ul>
             
             </div>
         </div>
@@ -1022,6 +1096,10 @@ margin-left: -4%;
 
         <div class="copyright">
 
+        
+            
+                <a href="https://example.org/license">Copyright © 2019 DarthXSJ</a>
+            
         
 
         </div>
@@ -1038,18 +1116,34 @@ margin-left: -4%;
         
 
         
+            <a href="https://github.com/example" rel=me target="_blank">
+                <img class="icon" src="https://example.org/img/github.svg" alt="github" />
+            </a>
+        
 
+        
+            <a href="https://twitter.com/example" rel=me target="_blank">
+                <img class="icon" src="https://example.org/img/twitter.svg" alt="twitter" />
+            </a>
+        
+
+        
+            <a href="https://www.linkedin.com/in/john-example-aa80ue8%c3%a8" rel=me target="_blank">
+                <img class="icon" src="https://example.org/img/linkedin.svg" alt="linkedin" />
+            </a>
         
 
         
 
         
-
+            <a href="mailto:you@example.com">
+                <img class="icon" src="https://example.org/img/email.svg" alt="email" />
+            </a>
         
 
         
-            <a href="http://example.org/index.xml">
-                <img class="icon" src="http://example.org/img/rss.svg" alt="rss" />
+            <a href="https://example.org/index.xml">
+                <img class="icon" src="https://example.org/img/rss.svg" alt="rss" />
             </a>
         
 
@@ -1069,7 +1163,12 @@ margin-left: -4%;
 
 
 
+  <script src="https://example.org/js/highlight.min.js" defer></script>
+  
 
+
+
+  <script src="https://example.org/js/progressively.min.js" defer></script>
 
 
 
@@ -1081,6 +1180,10 @@ margin-left: -4%;
 <script>
   window.onload = function() {
     
+      hljs.initHighlighting();
+    
+    
+      progressively.init({delay: 30, throttle: 50});
     
     
   };
