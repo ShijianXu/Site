@@ -33,6 +33,9 @@ Computer vision, self-supervised learning
 [report](/derain_report.pdf)
 
 ## Publications & Preprints
+- [Simple Control Baselines for Evaluating Transfer Learning](https://arxiv.org/pdf/2202.03365.pdf) <br>
+**Andrei Atanov**, **Shijian Xu**, Onur Beker, Andrei Filatov, Amir Zamir <br>
+
 - [Predicting Smartphone App Usage with Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-94268-1_44) <br>
 **S. Xu**, W. Li, X. Zhang, S. Gao, T. Zhan, Y. Zhao, W.-W. Zhu, T. Sun <br>
 International Conference on Wireless Algorithms, Systems, and Applications, 2018.
