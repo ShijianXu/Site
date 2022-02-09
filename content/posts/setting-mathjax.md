@@ -2,7 +2,7 @@
 author: "DarthXSJ"
 date: 2019-05-23
 title: Setting MathJax
-best: true
+best: False
 ---
 
 To write math expressions in Hugo, a popular method is using [MathJax](https://www.mathjax.org/). This [blog](https://divadnojnarg.github.io/blog/mathjax/) gives a quick and simple solution. 

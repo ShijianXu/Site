@@ -1,19 +1,44 @@
 +++
-date = "2018-10-29"
+date = "2020-07-18"
 title = "CV"
 +++
 
+##### [PDF](/xushijian_cv.pdf)
+
+## Education
+- 2014.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
+B.Sc. in Computer Science and Technology ([National Elite Program](http://elite.nju.edu.cn/))
+- 2020.09 -- Current &nbsp; **École polytechnique fédérale de Lausanne** <br>
+Master in Data Sciences
+
+## Research & working experiences
+- 2020.02 -- 2020.08 &nbsp; **Tencent AI Lab, Shenzhen, China** <br>
+Research focuses on self-supervised representation learning.
+- 2018.09 -- 2019.12 &nbsp; **City University of Hong Kong, HK SAR, China** <br>
+Research in computer vision, mainly focus on deep learning and image processing.
+- 2015.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
+Research focuses on deep learning for smartphone app prediction.
+
 ## Research interests
-Computer vision and machine learning
+Computer vision, self-supervised learning
+
+## Preprints & Projects
+- 2018.09 -- 2019.03 &nbsp; Image Specular Highlight Removal <br>
+[draft](/highlight_removal.pdf)
+- 2019.04 -- 2019.11 &nbsp; Single Image Heavy Rain Removal <br>
+[report](/derain_report.pdf)
 
 ## Publications
-- Shijian Xu, Wenzhong Li, Xiao Zhang, Songcheng Gao, Tong Zhan, Yongzhu Zhao, Wei-wei Zhu, Tianzi Sun, Predicting Smartphone App Usage with Recurrent Neural Networks, in the 13th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2018), Tianjin, China, June 20-22, 2018. [paper](https://docs.google.com/viewer?url=https://github.com/ShijianXu/PDFs/raw/master/AppPrediction.pdf)
+- [Predicting Smartphone App Usage with Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-94268-1_44) <br>
+**S. Xu**, W. Li, X. Zhang, S. Gao, T. Zhan, Y. Zhao, W.-W. Zhu, T. Sun <br>
+International Conference on Wireless Algorithms, Systems, and Applications, 2018.
 
 ## Awards & Honors
-- 2017 &nbsp; Third Prize of Elite Program Scholarship
-- 2017 &nbsp; Honorable Mention for MCM 2017
-- 2016 &nbsp; Third Prize of People's Scholarship
-- 2015 &nbsp; Second Prize of People's Scholarship
+- 2018 &nbsp; Nanjing University &nbsp; Second Prize of Excellent Bachelor Thesis Award
+- 2017 &nbsp; Nanjing University &nbsp; Third Prize of Elite Program Scholarship
+- 2017 &nbsp; Nanjing University &nbsp; Honorable Mention for MCM 2017
+- 2016 &nbsp; Nanjing University &nbsp; Third Prize of People's Scholarship
+- 2015 &nbsp; Nanjing University &nbsp; Second Prize of People's Scholarship
 
 ## Misc.
 - Implementation of some interesting clustering algorithms in Python 3.5. You can try them for image segmentation. [Link](https://github.com/ShijianXu/Clustering-Algorithms)
