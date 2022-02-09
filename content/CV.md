@@ -12,6 +12,10 @@ B.Sc. in Computer Science and Technology ([National Elite Program](http://elite.
 Master in Data Sciences
 
 ## Research & working experiences
+- 2021.03 -- 2021.12 &nbsp; **VILAB@EPFL, Lausanne, Switzerland** <br>
+Measuring the effectiveness of self-supervised pre-training methods for transfer learning.
+- 2021.07 -- 2021.09 &nbsp; **Tencent PCG, Shanghai, China** <br>
+Research in transformer-based multi-label image classification.
 - 2020.02 -- 2020.08 &nbsp; **Tencent AI Lab, Shenzhen, China** <br>
 Research focuses on self-supervised representation learning.
 - 2018.09 -- 2019.12 &nbsp; **City University of Hong Kong, HK SAR, China** <br>
@@ -22,13 +26,13 @@ Research focuses on deep learning for smartphone app prediction.
 ## Research interests
 Computer vision, self-supervised learning
 
-## Preprints & Projects
+## Projects
 - 2018.09 -- 2019.03 &nbsp; Image Specular Highlight Removal <br>
 [draft](/highlight_removal.pdf)
 - 2019.04 -- 2019.11 &nbsp; Single Image Heavy Rain Removal <br>
 [report](/derain_report.pdf)
 
-## Publications
+## Publications & Preprints
 - [Predicting Smartphone App Usage with Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-94268-1_44) <br>
 **S. Xu**, W. Li, X. Zhang, S. Gao, T. Zhan, Y. Zhao, W.-W. Zhu, T. Sun <br>
 International Conference on Wireless Algorithms, Systems, and Applications, 2018.
