@@ -1,5 +1,5 @@
 +++
-date = "2020-07-18"
+date = "2022-02-09"
 title = "CV"
 +++
 
@@ -12,7 +12,7 @@ B.Sc. in Computer Science and Technology ([National Elite Program](http://elite.
 Master in Data Sciences
 
 ## Research & working experiences
-- 2021.03 -- 2021.12 &nbsp; **VILAB@EPFL, Lausanne, Switzerland** <br>
+- 2021.03 -- 2021.12 &nbsp; **[VILAB@EPFL](https://vilab.epfl.ch/), Lausanne, Switzerland** <br>
 Measuring the effectiveness of self-supervised pre-training methods for transfer learning.
 - 2021.07 -- 2021.09 &nbsp; **Tencent PCG, Shanghai, China** <br>
 Research in transformer-based multi-label image classification.
@@ -34,7 +34,8 @@ Computer vision, self-supervised learning
 
 ## Publications & Preprints
 - [Simple Control Baselines for Evaluating Transfer Learning](https://arxiv.org/pdf/2202.03365.pdf) <br>
-**Andrei Atanov**, **Shijian Xu**, Onur Beker, Andrei Filatov, Amir Zamir <br>
+Andrei Atanov*, **Shijian Xu***, Onur Beker, Andrei Filatov, Amir Zamir <br>
+arXiv, 2022 
 
 - [Predicting Smartphone App Usage with Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-94268-1_44) <br>
 **S. Xu**, W. Li, X. Zhang, S. Gao, T. Zhan, Y. Zhao, W.-W. Zhu, T. Sun <br>
