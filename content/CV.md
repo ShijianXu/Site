@@ -49,4 +49,5 @@ International Conference on Wireless Algorithms, Systems, and Applications, 2018
 - 2015 &nbsp; Nanjing University &nbsp; Second Prize of People's Scholarship
 
 ## Misc.
+- A small but (maybe) interesting course project: [Link](https://shijianxu.github.io/linguistic_datastory/)
 - Implementation of some interesting clustering algorithms in Python 3.5. You can try them for image segmentation. [Link](https://github.com/ShijianXu/Clustering-Algorithms)
