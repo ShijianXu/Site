@@ -12,6 +12,8 @@ B.Sc. in Computer Science and Technology ([National Elite Program](http://elite.
 Master in Data Sciences
 
 ## Research & working experiences
+- 2022.02 -- Current &nbsp; **[DisneyResearch|Studios](https://studios.disneyresearch.com/), Zürich, Switzerland** <br>
+
 - 2021.03 -- 2021.12 &nbsp; **[VILAB@EPFL](https://vilab.epfl.ch/), Lausanne, Switzerland** <br>
 Measuring the effectiveness of self-supervised pre-training methods for transfer learning.
 - 2021.07 -- 2021.09 &nbsp; **Tencent PCG, Shanghai, China** <br>
