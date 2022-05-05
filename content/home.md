@@ -8,13 +8,13 @@ title = "Home"
 - I received my B.Sc. degree in Computer Science and Technology in 2018 from [Nanjing University](http://cs.nju.edu.cn/) (Elite Program).
 - Currently, I am a Master student at EPFL.
 
-##### [PDF](/xushijian_cv.pdf)
+##### [PDF](/cv.pdf)
 
 ## Education
 - 2014.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
 B.Sc. in Computer Science and Technology ([National Elite Program](http://elite.nju.edu.cn/))
 - 2020.09 -- Current &nbsp; **École polytechnique fédérale de Lausanne** <br>
-Master in Data Sciences
+Master in Data Science
 
 ## Research & working experiences
 - 2022.02 -- Current &nbsp; **[DisneyResearch|Studios](https://studios.disneyresearch.com/), Zürich, Switzerland** <br>
