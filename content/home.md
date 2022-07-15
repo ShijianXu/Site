@@ -18,7 +18,6 @@ Master in Data Science
 
 ## Research & working experiences
 - 2022.02 -- Current &nbsp; **[DisneyResearch|Studios](https://studios.disneyresearch.com/), Zürich, Switzerland** <br>
-
   Image super-resolution.
 
 - 2021.03 -- 2021.12 &nbsp; **[VILAB@EPFL](https://vilab.epfl.ch/), Lausanne, Switzerland** <br>
