@@ -17,14 +17,11 @@ B.Sc. in Computer Science and Technology ([National Elite Program](http://elite.
 Master in Data Science
 
 ## Research & working experiences
-- 2022.02 -- Current &nbsp; **[DisneyResearch|Studios](https://studios.disneyresearch.com/), Zürich, Switzerland** <br>
+- 2022.02 -- 2022.08 &nbsp; **[DisneyResearch|Studios](https://studios.disneyresearch.com/), Zürich, Switzerland** <br>
   Image super-resolution.
 
 - 2021.03 -- 2021.12 &nbsp; **[VILAB@EPFL](https://vilab.epfl.ch/), Lausanne, Switzerland** <br>
   Measuring the effectiveness of self-supervised pre-training methods for transfer learning.
-
-- 2021.07 -- 2021.09 &nbsp; **Tencent PCG, Shanghai, China** <br>
-  Research in transformer-based multi-label image classification.
 
 - 2020.02 -- 2020.08 &nbsp; **Tencent AI Lab, Shenzhen, China** <br>
   Research focuses on self-supervised representation learning.
@@ -63,4 +60,3 @@ International Conference on Wireless Algorithms, Systems, and Applications, 2018
 ## Misc.
 
 - A small but (maybe) interesting course project: [Link](https://shijianxu.github.io/linguistic_datastory/)
-- Implementation of some interesting clustering algorithms in Python 3.5. You can try them for image segmentation. [Link](https://github.com/ShijianXu/Clustering-Algorithms)
