@@ -12,11 +12,14 @@ title = "Home"
 
 ## Education
 - 2014.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
-B.Sc. in Computer Science and Technology ([National Elite Program](http://elite.nju.edu.cn/))
+B.Sc. in Computer Science and Technology
 - 2020.09 -- Current &nbsp; **École polytechnique fédérale de Lausanne** <br>
 Master in Data Science
 
 ## Research & working experiences
+- 2022.09 -- Current &nbsp; **[LIONS@EPFL](https://www.epfl.ch/labs/lions/), Lausanne, Switzerland** <br>
+  Out-of-distribution generalization (Master thesis)
+
 - 2022.02 -- 2022.08 &nbsp; **[DisneyResearch|Studios](https://studios.disneyresearch.com/), Zürich, Switzerland** <br>
   Image super-resolution.
 
@@ -33,7 +36,7 @@ Master in Data Science
 Research focuses on deep learning for smartphone app prediction.
 
 ## Research interests
-Computer vision, self-supervised learning
+Computer vision, image processing, self-supervised learning, OOD generalization
 
 ## Publications & Preprints
 - [Simple Control Baselines for Evaluating Transfer Learning](https://arxiv.org/pdf/2202.03365.pdf) <br>
