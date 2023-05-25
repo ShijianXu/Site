@@ -11,7 +11,7 @@ title = "Home"
 ##### [PDF](/cv.pdf)
 
 ## Education
-- 2020.09 -- 2023.02 &nbsp; **EPFL** <br>
+- 2020.09 -- 2023.02 &nbsp; **EPFL, Lausanne, Switzerland** <br>
 Master of Science MSc in Data Science
 - 2014.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
 B.Sc. in Computer Science and Technology
