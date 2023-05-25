@@ -5,19 +5,19 @@ title = "Home"
 
 ## Basic infomation
 - My name is **Shijian XU** (Chinese: 徐世坚).
-- I received my B.Sc. degree in Computer Science and Technology in 2018 from [Nanjing University](http://cs.nju.edu.cn/) (Elite Program).
-- Currently, I am a Master student at EPFL.
+- I received my B.Sc. degree in Computer Science and Technology in 2018 from [Nanjing University](http://cs.nju.edu.cn/).
+- I have graduated from EPFL with a Master's degree in Data Science.
 
 ##### [PDF](/cv.pdf)
 
 ## Education
+- 2020.09 -- 2023.02 &nbsp; **EPFL** <br>
+Master of Science MSc in Data Science
 - 2014.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
 B.Sc. in Computer Science and Technology
-- 2020.09 -- Current &nbsp; **École polytechnique fédérale de Lausanne** <br>
-Master in Data Science
 
 ## Research & working experiences
-- 2022.09 -- Current &nbsp; **[LIONS@EPFL](https://www.epfl.ch/labs/lions/), Lausanne, Switzerland** <br>
+- 2022.09 -- 2023.02 &nbsp; **[LIONS@EPFL](https://www.epfl.ch/labs/lions/), Lausanne, Switzerland** <br>
   Out-of-distribution generalization (Master thesis)
 
 - 2022.02 -- 2022.08 &nbsp; **[DisneyResearch|Studios](https://studios.disneyresearch.com/), Zürich, Switzerland** <br>
