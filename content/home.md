@@ -1,5 +1,5 @@
 +++
-date = "2022-03-29"
+date = "2023-05-25"
 title = "Home"
 +++
 
@@ -8,7 +8,7 @@ title = "Home"
 - I received my B.Sc. degree in Computer Science and Technology in 2018 from [Nanjing University](http://cs.nju.edu.cn/).
 - I have graduated from EPFL with a Master's degree in Data Science.
 
-##### [PDF](/cv.pdf)
+##### [CV](/cv.pdf)
 
 ## Education
 - 2020.09 -- 2023.02 &nbsp; **EPFL, Lausanne, Switzerland** <br>
@@ -16,7 +16,7 @@ Master of Science MSc in Data Science
 - 2014.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
 B.Sc. in Computer Science and Technology
 
-## Research & working experiences
+## Experience
 - 2022.09 -- 2023.02 &nbsp; **[LIONS@EPFL](https://www.epfl.ch/labs/lions/), Lausanne, Switzerland** <br>
   Out-of-distribution generalization (Master thesis)
 
