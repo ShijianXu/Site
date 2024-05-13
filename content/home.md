@@ -5,14 +5,20 @@ title = "Home"
 
 ## Basic infomation
 - My name is **Shijian XU** (Chinese: 徐世坚).
+- I am currently a PhD student at University of Basel.
+- I graduated from EPFL with a Master's degree in Data Science.
 - I received my B.Sc. degree in Computer Science and Technology in 2018 from [Nanjing University](http://cs.nju.edu.cn/).
-- I have graduated from EPFL with a Master's degree in Data Science.
 
 ##### [CV](/cv.pdf)
 
 ## Education
+- 2024.05 -- Current &nbsp; **University of Basel, Basel, Switzerland**<br>
+
+  PhD student in Computer Science
+
 - 2020.09 -- 2023.02 &nbsp; **EPFL, Lausanne, Switzerland** <br>
-Master of Science MSc in Data Science
+  Master of Science MSc in Data Science
+
 - 2014.09 -- 2018.06 &nbsp; **Nanjing University, Nanjing, China** <br>
 B.Sc. in Computer Science and Technology
 
