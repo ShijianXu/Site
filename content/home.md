@@ -13,7 +13,6 @@ title = "Home"
 
 ## Education
 - 2024.05 -- Current &nbsp; **University of Basel, Basel, Switzerland**<br>
-
   PhD student in Computer Science
 
 - 2020.09 -- 2023.02 &nbsp; **EPFL, Lausanne, Switzerland** <br>
