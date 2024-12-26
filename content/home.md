@@ -1,5 +1,5 @@
 +++
-date = "2023-05-25"
+date = "2024-12-26"
 title = "Home"
 +++
 
@@ -64,7 +64,3 @@ International Conference on Wireless Algorithms, Systems, and Applications, 2018
 - 2017 &nbsp; Nanjing University &nbsp; Honorable Mention for MCM 2017
 - 2016 &nbsp; Nanjing University &nbsp; Third Prize of People's Scholarship
 - 2015 &nbsp; Nanjing University &nbsp; Second Prize of People's Scholarship
-
-## Misc.
-
-- A small but (maybe) interesting course project: [Link](https://shijianxu.github.io/linguistic_datastory/)
