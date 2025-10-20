@@ -1,5 +1,5 @@
 +++
-date = "2024-12-26"
+date = "2025-10-20"
 title = "Home"
 +++
 
@@ -41,9 +41,12 @@ B.Sc. in Computer Science and Technology
 Research focuses on deep learning for smartphone app prediction.
 
 ## Research interests
-Computer vision, image processing, self-supervised learning, OOD generalization
+Interpretable ML, computer vision, image processing, self-supervised learning, OOD generalization
 
 ## Publications & Preprints
+- [NIMO: a Nonlinear Interpretable MOdel](https://arxiv.org/abs/2506.05059) <br>
+**Shijian Xu**, Marcello Massimo Negri, Volker Roth <br>
+Under review, 2025
 - [Simple Control Baselines for Evaluating Transfer Learning](https://arxiv.org/pdf/2202.03365.pdf) <br>
 Andrei Atanov*, **Shijian Xu***, Onur Beker, Andrei Filatov, Amir Zamir <br>
 arXiv, 2022 
@@ -51,8 +54,10 @@ arXiv, 2022
 **S. Xu**, W. Li, X. Zhang, S. Gao, T. Zhan, Y. Zhao, W.-W. Zhu, T. Sun <br>
 International Conference on Wireless Algorithms, Systems, and Applications, 2018.
 
-## Projects
+## Teaching
+- 2024, 2025 &nbsp; [Scientific Computing, University of Basel](https://dmi.unibas.ch/de/studium/computer-science-informatik/lehrangebot-hs25/main-lecture-scientific-computing/)
 
+## Projects
 - 2018.09 -- 2019.03 &nbsp; Image Specular Highlight Removal <br>
   [draft](/highlight_removal.pdf)
 - 2019.04 -- 2019.11 &nbsp; Single Image Heavy Rain Removal <br>
